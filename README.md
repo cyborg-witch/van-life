@@ -9,3 +9,4 @@ $ npm install
 $ npm start
 ````
 
+A web application for vans build with React. You can seee list of vans, and add them to your profile. User: b@b.com pass: p123
